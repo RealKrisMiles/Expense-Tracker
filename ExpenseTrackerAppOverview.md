@@ -17,3 +17,11 @@ Future Scope or Requirements:-
 
 *# HLD*
 ![image](https://github.com/user-attachments/assets/e0906eea-3f91-4a6c-8297-8de02f155d41)
+
+*#Service ULM Diagram*
+![image](https://github.com/user-attachments/assets/7bc860f2-34e9-4d3a-bb1f-0e6850feef57)
+
+*DB ER diagram*
+![image](https://github.com/user-attachments/assets/aaa6fdce-8036-4ff6-b5e4-c509a67e90c4)
+
+
